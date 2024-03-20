@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution URL](https://countessdoqu.github.io/qr_code_component/)
-- Live Site URL: [live site URL](https://github.com/CountessDoQu/qr_code_component)
+- Solution URL: [solution URL](https://github.com/CountessDoQu/qr_code_component)
+- Live Site URL: [live site URL](https://countessdoqu.github.io/qr_code_component/)
 
 ## My process
 
